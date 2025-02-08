@@ -1,0 +1,8 @@
+net:
+  listen_port: 9000
+  listen_to_network: true
+
+ui:
+  open_browser_on_start: false
+
+force_save_path: /opt/easy-diffusion/output
